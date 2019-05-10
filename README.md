@@ -9,6 +9,6 @@ tar -xvf 2015.1.00497.S_uid___A002_Xaeaf96_X515.asdm.sdm.tar
 ```
 All the data reduction, calibration and imaging is done in [CASA](https://casa.nrao.edu/) 5.1.1-5.
 
-my_calibration.py is a Python script for calibrating the raw data.
+calibration_script.py is a Python script for calibrating the raw data.
 
-my_imaging.py is a Python script for imaging NGC1386, one of the nearby galaxies observed in the project.
+imaging_script.py is a Python script for imaging NGC1386, one of the nearby galaxies observed in the project.
