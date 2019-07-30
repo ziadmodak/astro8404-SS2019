@@ -1,4 +1,4 @@
-# astro8404_SS2019
+# astro8404-SS2019
 Calibration and Imaging scripts for astro8404 (SS2019)
 
 The ALMA Project used here is 2015.1.00497.S (PI: T. Davis) and its raw data can be downloaded from the [ALMA Science Archive](http://almascience.eso.org/aq/). The scripts focus on the data reduction and imaging of a single scientific target (NGC 1386).
